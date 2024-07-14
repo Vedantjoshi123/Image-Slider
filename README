@@ -1,0 +1,47 @@
+Dynamic Image Slider
+Welcome to the Dynamic Image Slider project! This project is a React-based image slider that enhances user experience by providing a visually appealing and interactive way to display images.
+
+🔍 Project Overview
+The Dynamic Image Slider fetches images from an API and displays them in a sliding format. It features navigation arrows, a loading spinner, error handling, and visual indicators for easy navigation.
+
+🌟 Features
+Header Component: Simple and clean header to give context to the slider.
+Image Slider Component: Fetches images from an API and displays them in a sliding format.
+Navigation Arrows: Users can navigate through the images using left and right arrows.
+Loading Spinner: Indicates data loading status for a smooth user experience.
+Error Handling: Displays error messages if the API call fails.
+Indicators: Visual indicators at the bottom allow users to jump to a specific image.
+🔧 Technical Details
+Frontend Technologies: ReactJS, CSS
+Icons: React Icons
+API Integration: Fetches images from Lorem Picsum with customizable parameters.
+State Management: Manages loading, error states, and current slide using React hooks (useState, useEffect).
+🌐 Live Demo
+Check out the live demo of the project here: Image Slider
+
+
+🚀 How to Run the Project
+Clone the repository:
+bash
+Copy code
+git clone https://github.com/Vedantjoshi123/Image-Slider.git
+Navigate to the project directory:
+bash
+Copy code
+cd Image-Slider
+Install the dependencies:
+bash
+Copy code
+npm install
+Run the project:
+bash
+Copy code
+npm start
+
+🤝 Contributing
+Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
+
+
+
+📫 Contact
+For any inquiries or feedback, please reach out to me at vedantjoshi4406@gmail.com.
